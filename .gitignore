@@ -1,0 +1,28 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Node (for your Vue frontend)
+node_modules/
+dist/
+
+# Environment files
+.env
+.env.*
+
+# App settings (secrets)
+appsettings.Development.json
+appsettings.json
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
